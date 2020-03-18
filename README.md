@@ -1,6 +1,6 @@
 # game-of-life
 
-Based on https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
+Project that provides a model and a Graphical UI (with Swing framework) application regarding the https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
 
 ## Usage
 
